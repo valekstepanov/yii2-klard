@@ -1,7 +1,7 @@
 {
-  "name": "andkon/yii2kladr",
+  "name": "valekstepanov/yii2kladr",
   "description": "Widget for yii2 Kladr",
-  "homepage": "https://github.com/andkon13/yii2-klard",
+  "homepage": "https://github.com/valekstepanov/yii2-klard",
   "type": "project",
   "license": "BSD-3-Clause",
   "minimum-stability": "dev",
@@ -10,7 +10,7 @@
   },
   "autoload": {
     "psr-4": {
-      "andkon\\yii2kladr\\": ""
+      "valekstepanov\\yii2kladr\\": ""
     }
   }
 }
